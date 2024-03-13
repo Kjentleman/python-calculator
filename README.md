@@ -9,3 +9,6 @@ Install panel
 Launch server
 
 `panel serve calc.py --show --autoreload`
+
+## Images
+![Python Calculator](/images/python_caculator.png)
